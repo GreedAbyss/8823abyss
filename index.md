@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 作为一个凡人，如果你看见了这行字，那么说明你拥有步入我的王之领域的机会！颤抖吧！！
 
 You can use the [editor on GitHub](https://github.com/GreedAbyss/8823abyss/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
